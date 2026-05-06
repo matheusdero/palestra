@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Finanças com Torrente//Palestra//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20260525T220000Z
+DTEND:20260526T000000Z
+SUMMARY:Palestra: Pare de Trabalhar por Dinheiro – Matheus Torrente
+DESCRIPTION:Palestra presencial (Casa do Alfajor) e online (Google Meet) para médicos e dentistas de Porto Velho.\n\nTópicos: custos ocultos da clínica, armadilha das contas fixas, Análise SWOT financeira.\n\nMais informações: financascomtorrente@gmail.com
+LOCATION:Casa do Alfajor – Porto Velho, RO / Google Meet (link por e‑mail)
+STATUS:CONFIRMED
+ORGANIZER;CN=Matheus Torrente:mailto:financascomtorrente@gmail.com
+END:VEVENT
+END:VCALENDAR
